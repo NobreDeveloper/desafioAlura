@@ -8,7 +8,9 @@ Primeira aplicação proposta como desafio com Java simulando uma interação mu
 Dados iniciais do cliente:
 
 Nome: Pablo Nobre
+
 Tipo conta: Corrente
+
 Saldo inicial: R$ 2500,00
 ***********************
 
