@@ -1,18 +1,22 @@
-## Getting Started
+## Formação Java pela Alura
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Primeira aplicação proposta como desafio com Java simulando uma interação muito básica de banco e cliente usando apenas o conceito de classes.
 
-## Folder Structure
+## Expectativa de final
 
-The workspace contains two folders by default, where:
+***********************
+Dados iniciais do cliente:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Nome: Pablo Nobre
+Tipo conta: Corrente
+Saldo inicial: R$ 2500,00
+***********************
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Operações
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1- Consultar saldos
+2- Receber valor
+3- Transferir valor
+4- Sair
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Digite a opção desejada:
